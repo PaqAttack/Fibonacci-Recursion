@@ -5,9 +5,12 @@ import java.util.Arrays;
 public class Fibonacci {
     public static void main(String[] args) {
         Fibonacci fib = new Fibonacci();
+
+        // Very taxing on system resources with many array recreations and a potentially huge array size
 //        int[] sequence = {1,1};
 //        System.out.println(fib.getNth(sequence,4));
 
+        // Much cleaner example. Array stores where it is in the sequence [0] and the last 2 values [1] and [2].
         int[] betterSequence = {2,1,1};
         System.out.println(fib.getNthBetter(betterSequence,10));
     }

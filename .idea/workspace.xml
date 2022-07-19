@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ce7299c-ee56-4cb7-8db4-7a66d7bbc3d5" name="Changes" comment="Fibonacci Sequence">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/paquin/math/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paquin/math/Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658225052954</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fibonacci Sequence">
+      <created>1658228636543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658228636543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
